@@ -1,3 +1,4 @@
+<h1 align="center">Hi There <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">, I'm Zaid Saleem</h1>
 
 <div style="display: flex; justify-content: center; align-items: center;">
  <img src="https://github.com/ZaidAli3642/ZaidAli3642/blob/main/Banner.gif"/>
